@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BRrepo.iml" filepath="$PROJECT_DIR$/BRrepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/beautyrest.iml" filepath="$PROJECT_DIR$/beautyrest.iml" />
     </modules>
   </component>
 </project>

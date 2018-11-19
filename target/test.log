@@ -12807,3 +12807,42 @@ Session ID: b5ed23ae68e02751d4eb8fe6f1441f56
 	at com.codeborne.selenide.impl.SelenideElementProxy.dispatchAndRetry(SelenideElementProxy.java:93)
 	... 29 more
 
+2018-11-16 19:42:40,227 INFO u.ReporterManager [main] --------------------------------------------------------------------------------------------------------
+2018-11-16 19:42:40,233 INFO u.ReporterManager [main] Started test 'Check count of adjustable bases in cart and minicart icon' Groups: ''
+2018-11-16 19:42:40,238 INFO u.ReporterManager [main] Driver creation
+2018-11-16 19:42:46,688 INFO u.ReporterManager [main] Closing welcome message
+2018-11-16 19:42:51,825 INFO u.ReporterManager [main] Opening Adjustable Base Page
+2018-11-16 19:42:57,483 INFO u.ReporterManager [main] Opening product page: SMARTMOTION
+2018-11-16 19:43:00,550 INFO u.ReporterManager [main] Selecting product size: Queen
+2018-11-16 19:43:02,689 INFO u.ReporterManager [main] Clicking on "Add to cart" button
+2018-11-16 19:43:11,555 INFO u.ReporterManager [main] Opening Adjustable Base Page
+2018-11-16 19:43:16,891 INFO u.ReporterManager [main] Opening product page: SMARTMOTION
+2018-11-16 19:43:18,879 INFO u.ReporterManager [main] Selecting product size: Queen
+2018-11-16 19:43:21,054 INFO u.ReporterManager [main] Clicking on "Add to cart" button
+2018-11-16 19:43:28,335 INFO u.ReporterManager [main] Opening Adjustable Base Page
+2018-11-16 19:43:33,579 INFO u.ReporterManager [main] Opening product page: SMARTMOTION
+2018-11-16 19:43:35,482 INFO u.ReporterManager [main] Selecting product size: Queen
+2018-11-16 19:43:37,598 INFO u.ReporterManager [main] Clicking on "Add to cart" button
+2018-11-16 19:43:44,656 INFO u.ReporterManager [main] Getting count of goods from minicart icon
+2018-11-16 19:43:46,781 INFO u.ReporterManager [main] Items on cart icon are equal to 3
+2018-11-16 19:43:46,782 INFO u.ReporterManager [main] Counting sum of goods in the cart
+2018-11-16 19:43:46,782 INFO u.ReporterManager [main] Open Cart (Click on Show cart button)
+2018-11-16 19:43:49,017 INFO u.ReporterManager [main] Sum of goods in cart equals to 3
+2018-11-16 19:43:49,055 INFO u.ReporterManager [main] Closing cart
+2018-11-16 19:43:49,138 INFO u.ReporterManager [main] Opening Adjustable Base Page
+2018-11-16 19:43:53,987 INFO u.ReporterManager [main] Opening product page: SMARTMOTION
+2018-11-16 19:43:55,903 INFO u.ReporterManager [main] Selecting product size: King
+2018-11-16 19:43:58,118 INFO u.ReporterManager [main] Selecting option: 3.0
+2018-11-16 19:44:00,367 INFO u.ReporterManager [main] Clicking on "Add to cart" button
+2018-11-16 19:44:07,251 INFO u.ReporterManager [main] Opening Adjustable Base Page
+2018-11-16 19:44:12,156 INFO u.ReporterManager [main] Opening product page: SMARTMOTION
+2018-11-16 19:44:14,128 INFO u.ReporterManager [main] Selecting product size: King
+2018-11-16 19:44:16,246 INFO u.ReporterManager [main] Selecting option: 3.0
+2018-11-16 19:44:18,501 INFO u.ReporterManager [main] Clicking on "Add to cart" button
+2018-11-16 19:44:25,990 INFO u.ReporterManager [main] Getting count of goods from minicart icon
+2018-11-16 19:44:28,107 INFO u.ReporterManager [main] Items on cart icon are equal to 5
+2018-11-16 19:44:28,108 INFO u.ReporterManager [main] Counting sum of goods in the cart
+2018-11-16 19:44:28,109 INFO u.ReporterManager [main] Open Cart (Click on Show cart button)
+2018-11-16 19:44:30,389 INFO u.ReporterManager [main] Sum of goods in cart equals to 5
+2018-11-16 19:44:30,426 INFO u.ReporterManager [main] Closing cart
+2018-11-16 19:44:30,510 INFO u.ReporterManager [main] Test passed
